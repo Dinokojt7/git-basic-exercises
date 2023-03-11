@@ -1,0 +1,51 @@
+    1  mysql -u root -p 
+    2  composer create-project laravel/laravel izinto-ondemand
+    3  cd izinto-ondemand
+    4  code . 
+    5  php artisan serve 
+    6  php artisan serve 
+    7  composer create-project laravel/laravel izinto-ondemand
+    8  cd izinto-ondemand
+    9  code . 
+   10  composer create-project laravel/laravel izinto-ondemand
+   11  cd izinto-ondemand
+   12  code . 
+   13  php artisan serve 
+   14  php artisan serve 
+   15  composer create-project laravel/laravel izinto-ondemand
+   16  code . 
+   17  composer create-project laravel/laravel izinto-ondemand
+   18  php artisan serve 
+   19  cd izinto-ondemand
+   20  php artisan serve
+   21  code . 
+   22  php artisan serve 
+   23  php artisan serve
+   24  composer create-project laravel/laravel izinto-ondemand
+   25  cd izinto-ondemand
+   26  code . 
+   27  heroku login 
+   28   cd
+   29   cd
+   30  composer self-update
+   31  $
+   32  php artisan backpack:install
+   33  git branch 
+   34  git -b milkshake-flavours
+   35  git branch milkshake-flavours
+   36  git branch 
+   37  git checkout milkshake-flavours
+   38  git branch 
+   39  nano milkshakes.md
+   40  git status 
+   41  git add . 
+   42  git commit -m "added initial flavours"
+   43  git log 
+   44  git checkout main 
+   45  git log 
+   46  git branch history 
+   47  git branch 
+   48  git checkout history 
+   49  git log 
+   50  git branch 
+   51  history > history.txt
